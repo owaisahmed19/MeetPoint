@@ -2,6 +2,12 @@
 
 **MeetPoint** is a multilingual mobility web application that helps groups choose a suitable meeting place and plan individual journeys by walking, bus and train.
 
+<p align="left">
+  <a href="https://revolution-arbor-card-atlanta.trycloudflare.com/" target="_blank">
+    <strong>Open the live project</strong>
+  </a>
+</p>
+
 <p align="center">
   <img src="docs/images/meetpoint-overview.png" alt="MeetPoint project overview" width="100%">
 </p>
