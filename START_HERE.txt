@@ -1,0 +1,14 @@
+MEETPOINT 0.5.0
+
+1. Extract the whole ZIP.
+2. Install Python 3.11 or newer if needed.
+3. Double-click START.cmd on Windows.
+4. Open http://localhost:8000.
+
+First startup installs dependencies. Keep the terminal open.
+Stop an older MeetPoint server before starting this one.
+
+Send the entire ZIP to your friend. README.md explains how to run,
+use, edit and host the application and what data still needs verification.
+
+Walking times are calculated automatically: no walking-time input.

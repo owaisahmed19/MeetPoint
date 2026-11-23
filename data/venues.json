@@ -1,0 +1,1601 @@
+[
+  {
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "eligibility": "University community; confirm the group is eligible before external booking.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "building-level; room entrance and indoor route are not surveyed",
+    "booking_integration": "external only; PointCommun does not reserve rooms",
+    "id": "bu-montbeliard-bulle-2a",
+    "name": "Bibliothèque de campus de Montbéliard — BU’lle 2A",
+    "city": "Montbéliard",
+    "address": "4 place Lucien Tharradin, 25200 Montbéliard",
+    "lat": 47.495525,
+    "lon": 6.8038108,
+    "capacity": 8,
+    "min_group_size": 2,
+    "opening_hours": {
+      "mon": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "opening_exceptions": {
+      "2026-11-11": [],
+      "2026-12-21": [],
+      "2026-12-22": [],
+      "2026-12-23": [],
+      "2026-12-24": [],
+      "2026-12-25": [],
+      "2026-12-26": [],
+      "2026-12-27": [],
+      "2026-12-28": [],
+      "2026-12-29": [],
+      "2026-12-30": [],
+      "2026-12-31": [],
+      "2027-01-01": []
+    },
+    "opening_hours_note": "Published normal hours; date exceptions from official university calendar. Room booking must be confirmed.",
+    "booking_url": "https://affluences.com/fr/sites/universite-marie-et-louis-pasteur/bu-montbeliard/reservation?type=1",
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-montbeliard/",
+    "sources": [
+      "https://bu.umlp.fr/bibliotheques/bu-montbeliard/",
+      "https://bu.umlp.fr/services/acceder-aux-salles/",
+      "https://bu.umlp.fr/bibliotheques/calendrier-douverture-des-bu/"
+    ],
+    "coordinate_source": "Official university Google Maps link !3d47.495525!4d6.8038108",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "cost_note": "University room; check booking terms.",
+    "priority": 10,
+    "quiet": null
+  },
+  {
+    "permitted": false,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "eligibility": "University community; confirm the group is eligible before external booking.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "building-level; room entrance and indoor route are not surveyed",
+    "booking_integration": "external only; PointCommun does not reserve rooms",
+    "id": "bu-belfort-group-room",
+    "name": "BU Belfort Lucien Febvre — ancien choix générique (choisir BU’lle 0, 1 ou 2)",
+    "city": "Belfort",
+    "address": "43 faubourg des Ancêtres, Belfort",
+    "lat": 47.640042,
+    "lon": 6.856995,
+    "capacity": null,
+    "capacity_note": "Three rooms with capacities between 3 and 12 published; exact room must be selected and capacity confirmed.",
+    "opening_hours": {
+      "mon": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "tue": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "wed": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "thu": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "fri": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "sat": [
+        [
+          "09:00",
+          "12:00"
+        ]
+      ],
+      "sun": []
+    },
+    "opening_exceptions": {
+      "2026-11-11": [],
+      "2026-12-19": [],
+      "2026-12-20": [],
+      "2026-12-21": [],
+      "2026-12-22": [],
+      "2026-12-23": [],
+      "2026-12-24": [],
+      "2026-12-25": [],
+      "2026-12-26": [],
+      "2026-12-27": [],
+      "2026-12-28": [],
+      "2026-12-29": [],
+      "2026-12-30": [],
+      "2026-12-31": [],
+      "2027-01-01": [],
+      "2027-01-02": []
+    },
+    "opening_hours_note": "Legacy record retained for existing meetings. Choose one of the three individually listed rooms; each requires at least 3 eligible participants.",
+    "booking_url": "https://affluences.com/fr/sites/bu-belfort/reservation",
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-belfort/",
+    "sources": [
+      "https://bu.umlp.fr/bibliotheques/bu-belfort/",
+      "https://bu.umlp.fr/services/acceder-aux-salles/",
+      "https://bu.umlp.fr/bibliotheques/calendrier-douverture-des-bu/"
+    ],
+    "coordinate_source": "Official university Google Maps link !3d47.640042!4d6.856995",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "cost_note": "University room; check booking terms.",
+    "priority": 10,
+    "min_group_size": 3,
+    "quiet": null
+  },
+  {
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "eligibility": "University community; confirm the group is eligible before external booking.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "campus-level coordinate only; exact building entrance must be surveyed",
+    "booking_integration": "external only; PointCommun does not reserve rooms",
+    "id": "utbm-sevenans-savoureuse",
+    "name": "UTBM Sevenans — salle Savoureuse",
+    "city": "Sevenans",
+    "address": "Bibliothèque, bâtiment Pont niveau 2, rue de Leupe, 90400 Sevenans",
+    "lat": 47.588054,
+    "lon": 6.865858,
+    "capacity": 7,
+    "min_group_size": 2,
+    "max_booking_minutes": 180,
+    "opening_hours": {},
+    "opening_exceptions": {
+      "2026-10-26": [],
+      "2026-10-27": [],
+      "2026-10-28": [],
+      "2026-10-29": [],
+      "2026-10-30": []
+    },
+    "opening_hours_note": "Official works closure 26–30 October 2026. Future weekly hours not assumed: exclude until verified.",
+    "booking_url": "https://bibliotheque.utbm.fr/bibliotheques/site_de_sevenans/",
+    "source_url": "https://bibliotheque.utbm.fr/services/questions_reponses/",
+    "sources": [
+      "https://bibliotheque.utbm.fr/",
+      "https://bibliotheque.utbm.fr/services/questions_reponses/"
+    ],
+    "coordinate_source": "Official UTBM embedded map !2d6.865858!3d47.588054",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "cost_note": "University room; check booking terms.",
+    "priority": 10,
+    "quiet": null
+  },
+  {
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "eligibility": "University community; confirm the group is eligible before external booking.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "campus-level coordinate only; exact building entrance must be surveyed",
+    "booking_integration": "external only; PointCommun does not reserve rooms",
+    "id": "utbm-sevenans-chine",
+    "name": "UTBM Sevenans — salle Chine",
+    "city": "Sevenans",
+    "address": "Bibliothèque, bâtiment Pont niveau 2, rue de Leupe, 90400 Sevenans",
+    "lat": 47.588054,
+    "lon": 6.865858,
+    "capacity": 7,
+    "min_group_size": 2,
+    "max_booking_minutes": 180,
+    "opening_hours": {},
+    "opening_exceptions": {
+      "2026-10-26": [],
+      "2026-10-27": [],
+      "2026-10-28": [],
+      "2026-10-29": [],
+      "2026-10-30": []
+    },
+    "opening_hours_note": "Official works closure 26–30 October 2026. Future weekly hours not assumed: exclude until verified.",
+    "booking_url": "https://bibliotheque.utbm.fr/bibliotheques/site_de_sevenans/",
+    "source_url": "https://bibliotheque.utbm.fr/services/questions_reponses/",
+    "sources": [
+      "https://bibliotheque.utbm.fr/",
+      "https://bibliotheque.utbm.fr/services/questions_reponses/"
+    ],
+    "coordinate_source": "Official UTBM embedded map !2d6.865858!3d47.588054",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "cost_note": "University room; check booking terms.",
+    "priority": 10,
+    "quiet": null
+  },
+  {
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "eligibility": "University community; confirm the group is eligible before external booking.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "building-level; room entrance and indoor route are not surveyed",
+    "booking_integration": "external only; PointCommun does not reserve rooms",
+    "id": "bu-montbeliard-bulle-3a",
+    "name": "Bibliothèque de campus de Montbéliard — BU’lle 3A",
+    "city": "Montbéliard",
+    "address": "4 place Lucien Tharradin, 25200 Montbéliard",
+    "lat": 47.495525,
+    "lon": 6.8038108,
+    "capacity": 6,
+    "min_group_size": 2,
+    "opening_hours": {
+      "mon": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "opening_exceptions": {
+      "2026-11-11": [],
+      "2026-12-21": [],
+      "2026-12-22": [],
+      "2026-12-23": [],
+      "2026-12-24": [],
+      "2026-12-25": [],
+      "2026-12-26": [],
+      "2026-12-27": [],
+      "2026-12-28": [],
+      "2026-12-29": [],
+      "2026-12-30": [],
+      "2026-12-31": [],
+      "2027-01-01": []
+    },
+    "opening_hours_note": "Published normal hours; date exceptions from official university calendar. Room booking must be confirmed.",
+    "booking_url": "https://affluences.com/fr/sites/universite-marie-et-louis-pasteur/bu-montbeliard/reservation?type=1",
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-montbeliard/",
+    "sources": [
+      "https://bu.umlp.fr/bibliotheques/bu-montbeliard/",
+      "https://bu.umlp.fr/services/acceder-aux-salles/",
+      "https://bu.umlp.fr/bibliotheques/calendrier-douverture-des-bu/",
+      "https://affluences.com/fr/sites/universite-marie-et-louis-pasteur/bu-montbeliard/reservation?type=1"
+    ],
+    "coordinate_source": "Official university Google Maps link !3d47.495525!4d6.8038108",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "cost_note": "University room; external booking required.",
+    "priority": 10,
+    "quiet": null
+  },
+  {
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "eligibility": "University community; confirm the group is eligible before external booking.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "building-level; room entrance and indoor route are not surveyed",
+    "booking_integration": "external only; PointCommun does not reserve rooms",
+    "id": "bu-montbeliard-groupe-2e",
+    "name": "Bibliothèque de campus de Montbéliard — salle de travail en groupe 2E",
+    "city": "Montbéliard",
+    "address": "4 place Lucien Tharradin, 25200 Montbéliard",
+    "lat": 47.495525,
+    "lon": 6.8038108,
+    "capacity": 8,
+    "min_group_size": 2,
+    "opening_hours": {
+      "mon": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "opening_exceptions": {
+      "2026-11-11": [],
+      "2026-12-21": [],
+      "2026-12-22": [],
+      "2026-12-23": [],
+      "2026-12-24": [],
+      "2026-12-25": [],
+      "2026-12-26": [],
+      "2026-12-27": [],
+      "2026-12-28": [],
+      "2026-12-29": [],
+      "2026-12-30": [],
+      "2026-12-31": [],
+      "2027-01-01": []
+    },
+    "opening_hours_note": "Published normal hours; date exceptions from official university calendar. Room booking must be confirmed.",
+    "booking_url": "https://affluences.com/fr/sites/universite-marie-et-louis-pasteur/bu-montbeliard/reservation?type=1",
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-montbeliard/",
+    "sources": [
+      "https://bu.umlp.fr/bibliotheques/bu-montbeliard/",
+      "https://bu.umlp.fr/services/acceder-aux-salles/",
+      "https://bu.umlp.fr/bibliotheques/calendrier-douverture-des-bu/",
+      "https://affluences.com/fr/sites/universite-marie-et-louis-pasteur/bu-montbeliard/reservation?type=1"
+    ],
+    "coordinate_source": "Official university Google Maps link !3d47.495525!4d6.8038108",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "cost_note": "University room; external booking required.",
+    "priority": 10,
+    "quiet": null
+  },
+  {
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "eligibility": "University community; confirm the group is eligible before external booking.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "building-level; room entrance and indoor route are not surveyed",
+    "booking_integration": "external only; PointCommun does not reserve rooms",
+    "id": "bu-montbeliard-groupe-3e",
+    "name": "Bibliothèque de campus de Montbéliard — salle de travail en groupe 3E",
+    "city": "Montbéliard",
+    "address": "4 place Lucien Tharradin, 25200 Montbéliard",
+    "lat": 47.495525,
+    "lon": 6.8038108,
+    "capacity": 6,
+    "min_group_size": 2,
+    "opening_hours": {
+      "mon": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "opening_exceptions": {
+      "2026-11-11": [],
+      "2026-12-21": [],
+      "2026-12-22": [],
+      "2026-12-23": [],
+      "2026-12-24": [],
+      "2026-12-25": [],
+      "2026-12-26": [],
+      "2026-12-27": [],
+      "2026-12-28": [],
+      "2026-12-29": [],
+      "2026-12-30": [],
+      "2026-12-31": [],
+      "2027-01-01": []
+    },
+    "opening_hours_note": "Published normal hours; date exceptions from official university calendar. Room booking must be confirmed.",
+    "booking_url": "https://affluences.com/fr/sites/universite-marie-et-louis-pasteur/bu-montbeliard/reservation?type=1",
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-montbeliard/",
+    "sources": [
+      "https://bu.umlp.fr/bibliotheques/bu-montbeliard/",
+      "https://bu.umlp.fr/services/acceder-aux-salles/",
+      "https://bu.umlp.fr/bibliotheques/calendrier-douverture-des-bu/",
+      "https://affluences.com/fr/sites/universite-marie-et-louis-pasteur/bu-montbeliard/reservation?type=1"
+    ],
+    "coordinate_source": "Official university Google Maps link !3d47.495525!4d6.8038108",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "cost_note": "University room; external booking required.",
+    "priority": 10,
+    "quiet": null
+  },
+  {
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "eligibility": "University community; confirm the group is eligible before external booking.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "building-level; room entrance and indoor route are not surveyed",
+    "booking_integration": "external only; PointCommun does not reserve rooms",
+    "id": "bu-belfort-bulle-0",
+    "name": "BU Belfort Lucien Febvre — BU’lle 0",
+    "city": "Belfort",
+    "address": "43 faubourg des Ancêtres, Belfort",
+    "lat": 47.640042,
+    "lon": 6.856995,
+    "capacity": 12,
+    "capacity_note": "Named room: groups of 3–12; three university cards required at reception.",
+    "opening_hours": {
+      "mon": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "tue": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "wed": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "thu": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "fri": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "sat": [
+        [
+          "09:00",
+          "12:00"
+        ]
+      ],
+      "sun": []
+    },
+    "opening_exceptions": {
+      "2026-11-11": [],
+      "2026-12-19": [],
+      "2026-12-20": [],
+      "2026-12-21": [],
+      "2026-12-22": [],
+      "2026-12-23": [],
+      "2026-12-24": [],
+      "2026-12-25": [],
+      "2026-12-26": [],
+      "2026-12-27": [],
+      "2026-12-28": [],
+      "2026-12-29": [],
+      "2026-12-30": [],
+      "2026-12-31": [],
+      "2027-01-01": [],
+      "2027-01-02": []
+    },
+    "opening_hours_note": "Published usual hours. Different institution from UTBM Belfort library; do not apply UTBM closure to this library.",
+    "booking_url": "https://affluences.com/fr/sites/bu-belfort/reservation",
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-belfort/",
+    "sources": [
+      "https://bu.umlp.fr/bibliotheques/bu-belfort/",
+      "https://bu.umlp.fr/services/acceder-aux-salles/",
+      "https://bu.umlp.fr/bibliotheques/calendrier-douverture-des-bu/",
+      "https://affluences.com/fr/sites/universite-marie-et-louis-pasteur/bu-belfort/reservation?type=1"
+    ],
+    "coordinate_source": "Official university Google Maps link !3d47.640042!4d6.856995",
+    "min_group_size": 3,
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "cost_note": "University room; external booking required.",
+    "priority": 10,
+    "quiet": null
+  },
+  {
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "eligibility": "University community; confirm the group is eligible before external booking.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "building-level; room entrance and indoor route are not surveyed",
+    "booking_integration": "external only; PointCommun does not reserve rooms",
+    "id": "bu-belfort-bulle-1",
+    "name": "BU Belfort Lucien Febvre — BU’lle 1",
+    "city": "Belfort",
+    "address": "43 faubourg des Ancêtres, Belfort",
+    "lat": 47.640042,
+    "lon": 6.856995,
+    "capacity": 12,
+    "capacity_note": "Named room: groups of 3–12; three university cards required at reception.",
+    "opening_hours": {
+      "mon": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "tue": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "wed": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "thu": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "fri": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "sat": [
+        [
+          "09:00",
+          "12:00"
+        ]
+      ],
+      "sun": []
+    },
+    "opening_exceptions": {
+      "2026-11-11": [],
+      "2026-12-19": [],
+      "2026-12-20": [],
+      "2026-12-21": [],
+      "2026-12-22": [],
+      "2026-12-23": [],
+      "2026-12-24": [],
+      "2026-12-25": [],
+      "2026-12-26": [],
+      "2026-12-27": [],
+      "2026-12-28": [],
+      "2026-12-29": [],
+      "2026-12-30": [],
+      "2026-12-31": [],
+      "2027-01-01": [],
+      "2027-01-02": []
+    },
+    "opening_hours_note": "Published usual hours. Different institution from UTBM Belfort library; do not apply UTBM closure to this library.",
+    "booking_url": "https://affluences.com/fr/sites/bu-belfort/reservation",
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-belfort/",
+    "sources": [
+      "https://bu.umlp.fr/bibliotheques/bu-belfort/",
+      "https://bu.umlp.fr/services/acceder-aux-salles/",
+      "https://bu.umlp.fr/bibliotheques/calendrier-douverture-des-bu/",
+      "https://affluences.com/fr/sites/universite-marie-et-louis-pasteur/bu-belfort/reservation?type=1"
+    ],
+    "coordinate_source": "Official university Google Maps link !3d47.640042!4d6.856995",
+    "min_group_size": 3,
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "cost_note": "University room; external booking required.",
+    "priority": 10,
+    "quiet": null
+  },
+  {
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "eligibility": "University community; confirm the group is eligible before external booking.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "building-level; room entrance and indoor route are not surveyed",
+    "booking_integration": "external only; PointCommun does not reserve rooms",
+    "id": "bu-belfort-bulle-2",
+    "name": "BU Belfort Lucien Febvre — BU’lle 2",
+    "city": "Belfort",
+    "address": "43 faubourg des Ancêtres, Belfort",
+    "lat": 47.640042,
+    "lon": 6.856995,
+    "capacity": 12,
+    "capacity_note": "Named room: groups of 3–12; three university cards required at reception.",
+    "opening_hours": {
+      "mon": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "tue": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "wed": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "thu": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "fri": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ],
+      "sat": [
+        [
+          "09:00",
+          "12:00"
+        ]
+      ],
+      "sun": []
+    },
+    "opening_exceptions": {
+      "2026-11-11": [],
+      "2026-12-19": [],
+      "2026-12-20": [],
+      "2026-12-21": [],
+      "2026-12-22": [],
+      "2026-12-23": [],
+      "2026-12-24": [],
+      "2026-12-25": [],
+      "2026-12-26": [],
+      "2026-12-27": [],
+      "2026-12-28": [],
+      "2026-12-29": [],
+      "2026-12-30": [],
+      "2026-12-31": [],
+      "2027-01-01": [],
+      "2027-01-02": []
+    },
+    "opening_hours_note": "Published usual hours. Different institution from UTBM Belfort library; do not apply UTBM closure to this library.",
+    "booking_url": "https://affluences.com/fr/sites/bu-belfort/reservation",
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-belfort/",
+    "sources": [
+      "https://bu.umlp.fr/bibliotheques/bu-belfort/",
+      "https://bu.umlp.fr/services/acceder-aux-salles/",
+      "https://bu.umlp.fr/bibliotheques/calendrier-douverture-des-bu/",
+      "https://affluences.com/fr/sites/universite-marie-et-louis-pasteur/bu-belfort/reservation?type=1"
+    ],
+    "coordinate_source": "Official university Google Maps link !3d47.640042!4d6.856995",
+    "min_group_size": 3,
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "cost_note": "University room; external booking required.",
+    "priority": 10,
+    "quiet": null
+  },
+  {
+    "id": "numerica-lehub-coworking",
+    "name": "Numerica — leHub coworking",
+    "city": "Montbéliard",
+    "address": "Cours Louis Leprince-Ringuet, 25200 Montbéliard",
+    "lat": 47.495713,
+    "lon": 6.8058097,
+    "source_url": "https://numericabfc.com/numerica-immobilier/lehub-un-espace-de-coworking-convivial/",
+    "sources": [
+      "https://numericabfc.com/numerica-immobilier/lehub-un-espace-de-coworking-convivial/"
+    ],
+    "coordinate_source": "OSM Numerica building 1 centroid https://www.openstreetmap.org/relation/2082982 ; precise leHub entrance unverified.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Numerica building 1 centroid only; exact leHub/room entrance unverified.",
+    "capacity": null,
+    "opening_hours": {
+      "mon": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://numericabfc.com/numerica-immobilier/lehub-un-espace-de-coworking-convivial/",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "coworking",
+    "quiet_level": "unknown",
+    "discussion_allowed": true,
+    "opening_hours_note": "Published day/half-day access Mon–Fri 08:00–18:00. 13 individual workstations are advertised; group seating together is not guaranteed. Confirm admission and booking.",
+    "cost_note": "Paid coworking; published half-day/day offers. Check current group price.",
+    "priority": 30,
+    "quiet": null
+  },
+  {
+    "id": "numerica-lehub-meeting",
+    "name": "Numerica — leHub, salle de réunion dédiée",
+    "city": "Montbéliard",
+    "address": "Cours Louis Leprince-Ringuet, 25200 Montbéliard",
+    "lat": 47.495713,
+    "lon": 6.8058097,
+    "source_url": "https://numericabfc.com/numerica-immobilier/lehub-un-espace-de-coworking-convivial/",
+    "sources": [
+      "https://numericabfc.com/numerica-immobilier/lehub-un-espace-de-coworking-convivial/"
+    ],
+    "coordinate_source": "OSM Numerica building 1 centroid https://www.openstreetmap.org/relation/2082982 ; precise leHub entrance unverified.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Numerica building 1 centroid only; exact leHub/room entrance unverified.",
+    "capacity": null,
+    "opening_hours": {
+      "mon": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://numericabfc.com/numerica-immobilier/lehub-un-espace-de-coworking-convivial/",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Dedicated meeting room advertised. leHub daytime service envelope used; room-specific calendar, capacity and charge must be confirmed.",
+    "cost_note": "Paid service / quote required.",
+    "priority": 20,
+    "quiet": null
+  },
+  {
+    "id": "numerica-reunion-service",
+    "name": "Numerica — salles de réunion (choix à confirmer)",
+    "city": "Montbéliard",
+    "address": "Cours Louis Leprince-Ringuet, 25200 Montbéliard",
+    "lat": 47.495713,
+    "lon": 6.8058097,
+    "source_url": "https://numericabfc.com/numerica-immobilier/",
+    "sources": [
+      "https://numericabfc.com/numerica-immobilier/"
+    ],
+    "coordinate_source": "OSM Numerica building 1 centroid https://www.openstreetmap.org/relation/2082982 ; precise leHub entrance unverified.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Numerica building 1 centroid only; exact leHub/room entrance unverified.",
+    "capacity": null,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://numericabfc.com/numerica-immobilier/",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Service advertises equipped rooms from 10 to 50 seats. No single room capacity or bookable hours inferred; select a room and obtain its calendar before enabling calculations.",
+    "cost_note": "Confirm applicable charges.",
+    "priority": 30,
+    "quiet": null
+  },
+  {
+    "id": "cci-montbeliard-charles-weisser",
+    "name": "Place des Entrepreneurs — Charles Weisser",
+    "city": "Montbéliard",
+    "address": "4 rue Jean Bauhin, 25200 Montbéliard",
+    "lat": 47.5091857,
+    "lon": 6.8050132,
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "sources": [
+      "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+    ],
+    "coordinate_source": "Official CCI room map https://www.saone-doubs.cci.fr/produit/salle-de-reunion-georges-marconnet-montbeliard : 47.5091857, 6.8050132.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": 32,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Named room and capacity published by CCI. Bookable hours require confirmation; CCI reception hours are not a room reservation calendar. Some configurations of the 32-seat rooms allow up to 41.",
+    "cost_note": "Paid room hire; quote required.",
+    "priority": 20,
+    "quiet": null
+  },
+  {
+    "id": "cci-montbeliard-pierre-jouffroy",
+    "name": "Place des Entrepreneurs — Pierre Jouffroy | 207",
+    "city": "Montbéliard",
+    "address": "4 rue Jean Bauhin, 25200 Montbéliard",
+    "lat": 47.5091857,
+    "lon": 6.8050132,
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "sources": [
+      "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+    ],
+    "coordinate_source": "Official CCI room map https://www.saone-doubs.cci.fr/produit/salle-de-reunion-georges-marconnet-montbeliard : 47.5091857, 6.8050132.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": 22,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Named room and capacity published by CCI. Bookable hours require confirmation; CCI reception hours are not a room reservation calendar. Some configurations of the 32-seat rooms allow up to 41.",
+    "cost_note": "Paid room hire; quote required.",
+    "priority": 20,
+    "quiet": null
+  },
+  {
+    "id": "cci-montbeliard-georges-marconnet",
+    "name": "Place des Entrepreneurs — Georges Marconnet | 303",
+    "city": "Montbéliard",
+    "address": "4 rue Jean Bauhin, 25200 Montbéliard",
+    "lat": 47.5091857,
+    "lon": 6.8050132,
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "sources": [
+      "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+    ],
+    "coordinate_source": "Official CCI room map https://www.saone-doubs.cci.fr/produit/salle-de-reunion-georges-marconnet-montbeliard : 47.5091857, 6.8050132.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": 15,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Named room and capacity published by CCI. Bookable hours require confirmation; CCI reception hours are not a room reservation calendar. Some configurations of the 32-seat rooms allow up to 41.",
+    "cost_note": "Paid room hire; quote required.",
+    "priority": 20,
+    "quiet": null
+  },
+  {
+    "id": "cci-montbeliard-jules-emile-zingg",
+    "name": "Place des Entrepreneurs — Jules Émile Zingg | 301",
+    "city": "Montbéliard",
+    "address": "4 rue Jean Bauhin, 25200 Montbéliard",
+    "lat": 47.5091857,
+    "lon": 6.8050132,
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "sources": [
+      "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+    ],
+    "coordinate_source": "Official CCI room map https://www.saone-doubs.cci.fr/produit/salle-de-reunion-georges-marconnet-montbeliard : 47.5091857, 6.8050132.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": 24,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Named room and capacity published by CCI. Bookable hours require confirmation; CCI reception hours are not a room reservation calendar. Some configurations of the 32-seat rooms allow up to 41.",
+    "cost_note": "Paid room hire; quote required.",
+    "priority": 20,
+    "quiet": null
+  },
+  {
+    "id": "cci-montbeliard-paul-elie-dubois",
+    "name": "Place des Entrepreneurs — Paul-Élie Dubois | 302",
+    "city": "Montbéliard",
+    "address": "4 rue Jean Bauhin, 25200 Montbéliard",
+    "lat": 47.5091857,
+    "lon": 6.8050132,
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "sources": [
+      "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+    ],
+    "coordinate_source": "Official CCI room map https://www.saone-doubs.cci.fr/produit/salle-de-reunion-georges-marconnet-montbeliard : 47.5091857, 6.8050132.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": 12,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Named room and capacity published by CCI. Bookable hours require confirmation; CCI reception hours are not a room reservation calendar. Some configurations of the 32-seat rooms allow up to 41.",
+    "cost_note": "Paid room hire; quote required.",
+    "priority": 20,
+    "quiet": null
+  },
+  {
+    "id": "cci-montbeliard-georges-cuvier",
+    "name": "Place des Entrepreneurs — Georges Cuvier",
+    "city": "Montbéliard",
+    "address": "4 rue Jean Bauhin, 25200 Montbéliard",
+    "lat": 47.5091857,
+    "lon": 6.8050132,
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "sources": [
+      "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+    ],
+    "coordinate_source": "Official CCI room map https://www.saone-doubs.cci.fr/produit/salle-de-reunion-georges-marconnet-montbeliard : 47.5091857, 6.8050132.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": 32,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Named room and capacity published by CCI. Bookable hours require confirmation; CCI reception hours are not a room reservation calendar. Some configurations of the 32-seat rooms allow up to 41.",
+    "cost_note": "Paid room hire; quote required.",
+    "priority": 20,
+    "quiet": null
+  },
+  {
+    "id": "bristol-tasse-the",
+    "name": "La Tasse à Thé — Hôtel Bristol",
+    "city": "Montbéliard",
+    "address": "2 rue Velotte, 25200 Montbéliard",
+    "lat": 47.5103324,
+    "lon": 6.7996355,
+    "source_url": "https://www.hotel-bristol-montbeliard.com/salon-de-the",
+    "sources": [
+      "https://www.hotel-bristol-montbeliard.com/salon-de-the"
+    ],
+    "coordinate_source": "OSM Bristol address/building point https://www.openstreetmap.org/node/763555002 ; room entrance not surveyed.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": null,
+    "opening_hours": {
+      "mon": [
+        [
+          "07:15",
+          "19:00"
+        ]
+      ],
+      "tue": [
+        [
+          "07:15",
+          "19:00"
+        ]
+      ],
+      "wed": [
+        [
+          "07:15",
+          "19:00"
+        ]
+      ],
+      "thu": [
+        [
+          "07:15",
+          "19:00"
+        ]
+      ],
+      "fri": [
+        [
+          "07:15",
+          "19:00"
+        ]
+      ],
+      "sat": [
+        [
+          "07:15",
+          "19:00"
+        ]
+      ],
+      "sun": [
+        [
+          "07:15",
+          "19:00"
+        ]
+      ]
+    },
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": false,
+    "booking_url": "https://www.hotel-bristol-montbeliard.com/salon-de-the",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "cafe",
+    "quiet_level": "moderate",
+    "discussion_allowed": true,
+    "opening_hours_note": "Public opening 07:15–19:00 advertised. Table availability, noise and suitability for extended group work are unconfirmed.",
+    "cost_note": "Café purchases expected; confirm group seating.",
+    "priority": 50,
+    "quiet": null
+  },
+  {
+    "id": "bristol-reunion",
+    "name": "Hôtel Bristol — salle de réunion (20 m²)",
+    "city": "Montbéliard",
+    "address": "2 rue Velotte, 25200 Montbéliard",
+    "lat": 47.5103324,
+    "lon": 6.7996355,
+    "source_url": "https://www.hotel-bristol-montbeliard.com/seminaires",
+    "sources": [
+      "https://www.hotel-bristol-montbeliard.com/seminaires"
+    ],
+    "coordinate_source": "OSM Bristol address/building point https://www.openstreetmap.org/node/763555002 ; room entrance not surveyed.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": 8,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://www.hotel-bristol-montbeliard.com/seminaires",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Published room capacity. Seminar room capacity uses U-layout (30), not theatre-layout (60). Exact bookable hours require confirmation.",
+    "cost_note": "Paid room hire; current quote required.",
+    "priority": 20,
+    "quiet": true
+  },
+  {
+    "id": "bristol-seminaire",
+    "name": "Hôtel Bristol — salle de séminaire (100 m²)",
+    "city": "Montbéliard",
+    "address": "2 rue Velotte, 25200 Montbéliard",
+    "lat": 47.5103324,
+    "lon": 6.7996355,
+    "source_url": "https://www.hotel-bristol-montbeliard.com/seminaires",
+    "sources": [
+      "https://www.hotel-bristol-montbeliard.com/seminaires"
+    ],
+    "coordinate_source": "OSM Bristol address/building point https://www.openstreetmap.org/node/763555002 ; room entrance not surveyed.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": 30,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://www.hotel-bristol-montbeliard.com/seminaires",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Published room capacity. Seminar room capacity uses U-layout (30), not theatre-layout (60). Exact bookable hours require confirmation.",
+    "cost_note": "Paid room hire; current quote required.",
+    "priority": 20,
+    "quiet": true
+  },
+  {
+    "id": "feelicita",
+    "name": "La Féelicità — salon de thé",
+    "city": "Montbéliard",
+    "address": "11 rue de Belfort, 25200 Montbéliard",
+    "lat": 47.5084258,
+    "lon": 6.7975155,
+    "source_url": "https://lafeelicita.fr/salon",
+    "sources": [
+      "https://lafeelicita.fr/salon"
+    ],
+    "coordinate_source": "OSM address/building polygon https://www.openstreetmap.org/way/82004941",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": null,
+    "opening_hours": {
+      "tue": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "18:00"
+        ]
+      ]
+    },
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": false,
+    "booking_url": "https://lafeelicita.fr/salon",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "cafe",
+    "quiet_level": "moderate",
+    "discussion_allowed": true,
+    "opening_hours_note": "Normal published autumn hours; summer later closing not applied. Table availability, group suitability and noise unconfirmed.",
+    "cost_note": "Café purchases expected; confirm extended group use.",
+    "priority": 50,
+    "quiet": null
+  },
+  {
+    "id": "mediatheque-montbeliard",
+    "name": "Médiathèque de Montbéliard — espace de travail à confirmer",
+    "city": "Montbéliard",
+    "address": "6 avenue des Alliés, 25200 Montbéliard",
+    "lat": 47.5114548,
+    "lon": 6.8005678,
+    "source_url": "https://mediatheque.montbeliard.com/venir-horaires.aspx",
+    "sources": [
+      "https://mediatheque.montbeliard.com/venir-horaires.aspx"
+    ],
+    "coordinate_source": "OSM mapped library POI https://www.openstreetmap.org/node/5091744936",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": null,
+    "opening_hours": {
+      "tue": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ]
+    },
+    "opening_exceptions": {
+      "2026-11-01": [],
+      "2026-11-11": [],
+      "2026-12-25": [],
+      "2027-01-01": []
+    },
+    "permitted": false,
+    "availability_status": "unconfirmed",
+    "booking_required": false,
+    "booking_url": "https://mediatheque.montbeliard.com/venir-horaires.aspx",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "library",
+    "quiet_level": "quiet",
+    "discussion_allowed": null,
+    "opening_hours_note": "Public reading/work access, published non-summer hours except public holidays. A conversation/group meeting space is not verified: ask staff, then update permission. Not an automatic meeting candidate yet.",
+    "cost_note": "On-site reading/work free; confirm group use.",
+    "priority": 30,
+    "quiet": null
+  },
+  {
+    "id": "mediatheque-audincourt",
+    "name": "Médiathèque Janusz Korczak — espace de travail",
+    "city": "Audincourt",
+    "address": "8 rue du Puits, 25400 Audincourt",
+    "lat": 47.4805205,
+    "lon": 6.8374639,
+    "source_url": "https://www.audincourt.fr/culture/mediatheque/",
+    "sources": [
+      "https://www.audincourt.fr/culture/mediatheque/"
+    ],
+    "coordinate_source": "OSM library building https://www.openstreetmap.org/way/194629204",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": null,
+    "opening_hours": {
+      "tue": [
+        [
+          "14:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "14:00",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "14:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "09:00",
+          "16:00"
+        ]
+      ]
+    },
+    "opening_exceptions": {
+      "2026-11-01": [],
+      "2026-11-11": [],
+      "2026-12-25": [],
+      "2027-01-01": []
+    },
+    "permitted": false,
+    "availability_status": "unconfirmed",
+    "booking_required": false,
+    "booking_url": "https://www.audincourt.fr/culture/mediatheque/",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "library",
+    "quiet_level": "quiet",
+    "discussion_allowed": null,
+    "opening_hours_note": "Municipal site advertises work space and four computer stations, not a four-person meeting room. Ask staff about conversation/group seating before enabling.",
+    "cost_note": "Check group use conditions with staff.",
+    "priority": 30,
+    "quiet": null
+  },
+  {
+    "id": "bibliotheque-leon-deubel",
+    "name": "Bibliothèque Léon Deubel — espace de rencontre à confirmer",
+    "city": "Belfort",
+    "address": "Place Jacques-Chirac, 90000 Belfort",
+    "lat": 47.6395606,
+    "lon": 6.8544278,
+    "source_url": "https://affluences.com/fr/sites/bibliotheque-leon-deubel",
+    "sources": [
+      "https://affluences.com/fr/sites/bibliotheque-leon-deubel"
+    ],
+    "coordinate_source": "OSM library building https://www.openstreetmap.org/way/79763327",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": null,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": false,
+    "availability_status": "unconfirmed",
+    "booking_required": false,
+    "booking_url": "https://affluences.com/fr/sites/bibliotheque-leon-deubel",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "library",
+    "quiet_level": "quiet",
+    "discussion_allowed": null,
+    "opening_hours_note": "Public library confirmed, but meeting area permission and date-specific operating hours must be verified. Public reading seats are not a reserved discussion room.",
+    "cost_note": "Confirm with venue.",
+    "priority": 30,
+    "quiet": null
+  },
+  {
+    "id": "azap-jonxion-reunion",
+    "name": "AZAP! La Jonxion — salle de réunion à sélectionner",
+    "city": "Meroux-Moval",
+    "address": "Jonxion 1, 1 avenue de la Gare TGV, 90400 Meroux-Moval",
+    "lat": 47.58349322272815,
+    "lon": 6.89689147476967,
+    "source_url": "https://myjonxion.tandemparcs.immo/services/centre-affaires/",
+    "sources": [
+      "https://myjonxion.tandemparcs.immo/services/centre-affaires/"
+    ],
+    "coordinate_source": "Official site Nous trouver link https://www.google.fr/maps/dir//47.58349322272815,%2B6.89689147476967",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": null,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": true,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://myjonxion.tandemparcs.immo/services/centre-affaires/",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Business centre offers meeting rooms and equipped offices. Specific room capacity and bookable hours require confirmation.",
+    "cost_note": "Paid business meeting service; quote required.",
+    "priority": 20,
+    "quiet": null
+  },
+  {
+    "id": "stgi-c-meeting-room",
+    "name": "UFR STGI bâtiment C — salle de réunion",
+    "city": "Montbéliard",
+    "address": "Campus, 4 place Lucien Tharradin, 25200 Montbéliard",
+    "lat": 47.494879,
+    "lon": 6.803658,
+    "source_url": "https://stgi.umlp.fr/partenaires/location-de-salles/",
+    "sources": [
+      "https://stgi.umlp.fr/partenaires/location-de-salles/"
+    ],
+    "coordinate_source": "OSM UFR STGI campus polygon https://www.openstreetmap.org/way/32428404 ; building C exact entrance not surveyed.",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Campus-level polygon coordinate only; exact bâtiment C entrance unverified.",
+    "capacity": null,
+    "opening_hours": {},
+    "opening_exceptions": {},
+    "permitted": false,
+    "availability_status": "unconfirmed",
+    "booking_required": true,
+    "booking_url": "https://stgi.umlp.fr/partenaires/location-de-salles/",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "meeting_room",
+    "quiet_level": "quiet",
+    "discussion_allowed": true,
+    "opening_hours_note": "Room appears on the user-provided floor-plan photograph. Campus-level coordinate only, not room/building entrance. Permission, capacity, current layout and booking hours must be confirmed with university staff.",
+    "cost_note": "Internal access terms must be confirmed; commercial rental terms differ.",
+    "priority": 10,
+    "quiet": null
+  },
+  {
+    "id": "bu-montbeliard-common-area",
+    "name": "Bibliothèque de campus de Montbéliard — espaces communs",
+    "city": "Montbéliard",
+    "address": "4 place Lucien Tharradin, 25200 Montbéliard",
+    "lat": 47.495525,
+    "lon": 6.8038108,
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-montbeliard/",
+    "sources": [
+      "https://bu.umlp.fr/bibliotheques/bu-montbeliard/"
+    ],
+    "coordinate_source": "Official university Google Maps link !3d47.495525!4d6.8038108",
+    "source_checked_at": "2026-10-27",
+    "routing_precision": "Building / mapped POI position; exact room entrance and indoor route not surveyed.",
+    "capacity": null,
+    "opening_hours": {
+      "mon": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "opening_exceptions": {
+      "2026-11-11": [],
+      "2026-12-21": [],
+      "2026-12-22": [],
+      "2026-12-23": [],
+      "2026-12-24": [],
+      "2026-12-25": [],
+      "2026-12-26": [],
+      "2026-12-27": [],
+      "2026-12-28": [],
+      "2026-12-29": [],
+      "2026-12-30": [],
+      "2026-12-31": [],
+      "2027-01-01": []
+    },
+    "permitted": false,
+    "availability_status": "unconfirmed",
+    "booking_required": false,
+    "booking_url": "https://bu.umlp.fr/bibliotheques/bu-montbeliard/",
+    "booking_integration": "External booking only; the app does not reserve rooms.",
+    "category": "library",
+    "quiet_level": "quiet",
+    "discussion_allowed": null,
+    "opening_hours_note": "Building-level library entry, distinct from the four bookable group rooms. Reading areas are not assumed suitable for discussion: choose a named group room or confirm permission.",
+    "cost_note": "University access conditions apply.",
+    "priority": 10,
+    "quiet": null
+  }
+]

@@ -1,0 +1,11 @@
+services:
+  meetpoint:
+    build: .
+    container_name: meetpoint
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8000:8000"
+    environment:
+      DB_PATH: /app/data/meetings.sqlite3
+    volumes:
+      - ./data/meetings.sqlite3:/app/data/meetings.sqlite3

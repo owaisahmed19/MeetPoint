@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "profile": "foot",
+  "base_url": "https://routing.openstreetmap.de/routed-foot/route/v1/driving",
+  "max_requests_per_plan": 12,
+  "timeout_seconds": 5,
+  "usage": "Light academic demonstration only; max 1 request/second, persistent cache, no scraping/heavy usage.",
+  "source": "https://routing.openstreetmap.de/about.html"
+}

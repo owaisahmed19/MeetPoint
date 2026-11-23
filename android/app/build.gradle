@@ -1,0 +1,30 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'fr.pointcommun.app'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'fr.meetpoint.app'
+        minSdk 26
+        targetSdk 35
+        versionCode 5
+        versionName '0.4.2'
+    }
+    buildFeatures { buildConfig true }
+    // Development-only key retained for subsequent test-app updates.
+    signingConfigs {
+        meetPointDevelopment {
+            storeFile rootProject.file('debug-signing/meetpoint-debug.keystore')
+            storePassword 'android'
+            keyAlias 'meetpointdebug'
+            keyPassword 'android'
+        }
+    }
+    buildTypes {
+        debug { applicationIdSuffix '.debug'; signingConfig signingConfigs.meetPointDevelopment }
+        release { minifyEnabled false }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

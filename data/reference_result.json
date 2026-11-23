@@ -1,0 +1,176 @@
+{
+  "checked_at": "2026-10-27",
+  "elapsed_seconds": 37.14,
+  "description": "Rebuilt planner with genuine feeds, hypothetical participants; not a measured journey.",
+  "proposals": [
+    {
+      "venue_id": "bu-montbeliard-bulle-2a",
+      "start": "2026-11-03T08:40:24+01:00",
+      "conditional": true,
+      "itineraries": [
+        {
+          "name": "Belfort station test",
+          "arrival": "2026-11-03T08:40:24+01:00",
+          "legs": [
+            {
+              "mode": "walk",
+              "route_name": null,
+              "from_name": "Belfort station test",
+              "to_name": "Belfort-Ville",
+              "departure": "2026-11-03T08:00:00+01:00",
+              "arrival": "2026-11-03T08:00:00+01:00"
+            },
+            {
+              "mode": "train",
+              "route_name": "C13",
+              "from_name": "Belfort-Ville",
+              "to_name": "Montbéliard",
+              "departure": "2026-11-03T08:05:00+01:00",
+              "arrival": "2026-11-03T08:20:00+01:00"
+            },
+            {
+              "mode": "walk",
+              "route_name": null,
+              "from_name": "Montbéliard",
+              "to_name": "ACROPOLE QUAI 6",
+              "departure": "2026-11-03T08:20:00+01:00",
+              "arrival": "2026-11-03T08:21:30+01:00"
+            },
+            {
+              "mode": "bus",
+              "route_name": "T2",
+              "from_name": "ACROPOLE QUAI 6",
+              "to_name": "CAMPUS",
+              "departure": "2026-11-03T08:26:00+01:00",
+              "arrival": "2026-11-03T08:40:00+01:00"
+            },
+            {
+              "mode": "walk",
+              "route_name": null,
+              "from_name": "CAMPUS",
+              "to_name": "BU Montbéliard — espace BU’lle 2A",
+              "departure": "2026-11-03T08:40:00+01:00",
+              "arrival": "2026-11-03T08:40:24+01:00"
+            }
+          ]
+        },
+        {
+          "name": "Montbéliard station test",
+          "arrival": "2026-11-03T08:24:24+01:00",
+          "legs": [
+            {
+              "mode": "walk",
+              "route_name": null,
+              "from_name": "Montbéliard station test",
+              "to_name": "ACROPOLE QUAI 6",
+              "departure": "2026-11-03T08:00:00+01:00",
+              "arrival": "2026-11-03T08:01:30+01:00"
+            },
+            {
+              "mode": "bus",
+              "route_name": "T2",
+              "from_name": "ACROPOLE QUAI 6",
+              "to_name": "CAMPUS",
+              "departure": "2026-11-03T08:10:00+01:00",
+              "arrival": "2026-11-03T08:24:00+01:00"
+            },
+            {
+              "mode": "walk",
+              "route_name": null,
+              "from_name": "CAMPUS",
+              "to_name": "BU Montbéliard — espace BU’lle 2A",
+              "departure": "2026-11-03T08:24:00+01:00",
+              "arrival": "2026-11-03T08:24:24+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "venue_id": "bu-belfort-group-room",
+      "start": "2026-11-03T09:00:00+01:00",
+      "conditional": true,
+      "itineraries": [
+        {
+          "name": "Belfort station test",
+          "arrival": "2026-11-03T08:10:28+01:00",
+          "legs": [
+            {
+              "mode": "walk",
+              "route_name": null,
+              "from_name": "Belfort station test",
+              "to_name": "BU Belfort Lucien Febvre — salle à confirmer",
+              "departure": "2026-11-03T08:00:00+01:00",
+              "arrival": "2026-11-03T08:10:28+01:00"
+            }
+          ]
+        },
+        {
+          "name": "Montbéliard station test",
+          "arrival": "2026-11-03T08:34:28+01:00",
+          "legs": [
+            {
+              "mode": "walk",
+              "route_name": null,
+              "from_name": "Montbéliard station test",
+              "to_name": "Montbéliard",
+              "departure": "2026-11-03T08:00:00+01:00",
+              "arrival": "2026-11-03T08:00:00+01:00"
+            },
+            {
+              "mode": "train",
+              "route_name": "K13",
+              "from_name": "Montbéliard",
+              "to_name": "Belfort-Ville",
+              "departure": "2026-11-03T08:10:00+01:00",
+              "arrival": "2026-11-03T08:24:00+01:00"
+            },
+            {
+              "mode": "walk",
+              "route_name": null,
+              "from_name": "Belfort-Ville",
+              "to_name": "BU Belfort Lucien Febvre — salle à confirmer",
+              "departure": "2026-11-03T08:24:00+01:00",
+              "arrival": "2026-11-03T08:34:28+01:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "rejections": [
+    {
+      "venue_id": "utbm-sevenans-savoureuse",
+      "venue_name": "UTBM Sevenans — salle Savoureuse",
+      "reason": "Closed or no verified opening hours for this date. The complete meeting cannot fit after everyone arrives."
+    },
+    {
+      "venue_id": "utbm-sevenans-chine",
+      "venue_name": "UTBM Sevenans — salle Chine",
+      "reason": "Closed or no verified opening hours for this date. The complete meeting cannot fit after everyone arrives."
+    }
+  ],
+  "data_status": {
+    "transit_available": true,
+    "feeds": [
+      {
+        "namespace": "evolity",
+        "stops": 666,
+        "active_trips": 796
+      },
+      {
+        "namespace": "optymo",
+        "stops": 1018,
+        "active_trips": 1387
+      },
+      {
+        "namespace": "sncf",
+        "stops": 198,
+        "active_trips": 290
+      }
+    ],
+    "warnings": [
+      "Walking times and geometry are straight-line approximations, not verified pedestrian routes. Indoor navigation is not implemented."
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+[
+  {
+    "namespace": "evolity",
+    "dataset_url": "https://transport.data.gouv.fr/datasets/evolity-horaires-theoriques-de-transport-public",
+    "resource_url": "https://static.data.gouv.fr/resources/evolity-horaires-theoriques-de-transport-public/20260709-133238/2026-07-13-au-2027-06-11-gtfs-mpm-rs-v2.zip",
+    "stable_resource_url": "https://www.data.gouv.fr/api/1/datasets/r/b45aa8d8-4bd4-4528-99c7-acfc980fdb09",
+    "licence": "odc-odbl",
+    "resource_updated": "2026-07-09T13:32:39.223000Z",
+    "catalogue_metadata": {
+      "end_date": "2027-06-11",
+      "feed_contact_emails": {},
+      "feed_end_dates": {},
+      "feed_start_dates": {},
+      "has_fares": false,
+      "has_pathways": false,
+      "has_shapes": true,
+      "issues_count": {
+        "CloseStops": 2,
+        "DuplicateStops": 9,
+        "IdNotAscii": 7,
+        "NullDuration": 4,
+        "Slow": 1
+      },
+      "modes": [
+        "bus"
+      ],
+      "networks": [
+        "evolitY"
+      ],
+      "networks_start_end_dates": {
+        "evolitY": {
+          "end_date": "2027-06-11",
+          "start_date": "2026-07-13"
+        }
+      },
+      "some_stops_need_phone_agency": false,
+      "some_stops_need_phone_driver": false,
+      "start_date": "2026-07-13",
+      "stats": {
+        "fares_attribute_count": 0,
+        "fares_media_count": 0,
+        "fares_products_count": 0,
+        "fares_rules_count": 0,
+        "routes_count": 16,
+        "routes_with_custom_color_count": 15,
+        "routes_with_long_name_count": 16,
+        "routes_with_short_name_count": 16,
+        "stop_areas_count": 0,
+        "stop_points_count": 666,
+        "stops_count": 666,
+        "stops_with_wheelchair_info_count": 518,
+        "transfers_count": 0,
+        "trips_count": 2378,
+        "trips_with_bike_info_count": 0,
+        "trips_with_shape_count": 2378,
+        "trips_with_trip_headsign_count": 2378,
+        "trips_with_wheelchair_info_count": 2378
+      },
+      "stops_count": 666,
+      "validator_version": "0.3.0"
+    },
+    "local_file": "data/raw/evolity.zip",
+    "status": "downloaded",
+    "checked_at": "2026-10-27T20:48:38.340813+00:00",
+    "bytes": 962697,
+    "sha256": "cd340dee8a50bb80a18154b0bcf0174309714020b968d4cbbfa92fdaf412efc3",
+    "inspection": {
+      "row_counts": {
+        "trips.txt": 2378,
+        "agency.txt": 1,
+        "calendar.txt": 48,
+        "calendar_dates.txt": 4500,
+        "frequencies.txt": 0,
+        "routes.txt": 16,
+        "shapes.txt": 52743,
+        "stop_times.txt": 84741,
+        "stops.txt": 666
+      }
+    }
+  },
+  {
+    "namespace": "optymo",
+    "dataset_url": "https://transport.data.gouv.fr/datasets/arrets-circuits-et-horaires-du-reseau-optymo-de-belfort",
+    "resource_url": "https://static.data.gouv.fr/resources/arrets-circuits-et-horaires-du-reseau-optymo-de-belfort/20261022-093716/gtfs.zip",
+    "stable_resource_url": "https://www.data.gouv.fr/api/1/datasets/r/797c424e-7d28-4e65-84f6-6677e47d8a6e",
+    "licence": "odc-odbl",
+    "resource_updated": "2026-10-22T09:37:16.788000Z",
+    "catalogue_metadata": {
+      "end_date": "2027-01-03",
+      "feed_contact_emails": {
+        "Mecatran": "support@mecatran.com"
+      },
+      "feed_end_dates": {
+        "Mecatran": "2027-01-03"
+      },
+      "feed_start_dates": {
+        "Mecatran": "2026-07-01"
+      },
+      "has_fares": false,
+      "has_pathways": false,
+      "has_shapes": true,
+      "issues_count": {
+        "DuplicateStops": 11,
+        "UnusedShapeId": 4,
+        "UnusedStop": 11
+      },
+      "modes": [
+        "bus"
+      ],
+      "networks": [
+        "OPTYMO suburbain",
+        "OPTYMO urbain"
+      ],
+      "networks_start_end_dates": {
+        "OPTYMO suburbain": {
+          "end_date": "2026-12-31",
+          "start_date": "2026-07-06"
+        },
+        "OPTYMO urbain": {
+          "end_date": "2027-01-03",
+          "start_date": "2026-07-01"
+        }
+      },
+      "some_stops_need_phone_agency": false,
+      "some_stops_need_phone_driver": true,
+      "start_date": "2026-07-01",
+      "stats": {
+        "fares_attribute_count": 0,
+        "fares_media_count": 0,
+        "fares_products_count": 0,
+        "fares_rules_count": 0,
+        "routes_count": 50,
+        "routes_with_custom_color_count": 50,
+        "routes_with_long_name_count": 50,
+        "routes_with_short_name_count": 50,
+        "stop_areas_count": 559,
+        "stop_points_count": 1024,
+        "stops_count": 1583,
+        "stops_with_wheelchair_info_count": 1026,
+        "transfers_count": 3122,
+        "trips_count": 6846,
+        "trips_with_bike_info_count": 0,
+        "trips_with_shape_count": 6846,
+        "trips_with_trip_headsign_count": 6816,
+        "trips_with_wheelchair_info_count": 4861
+      },
+      "stops_count": 1583,
+      "validator_version": "0.3.0"
+    },
+    "local_file": "data/raw/optymo.zip",
+    "status": "downloaded",
+    "checked_at": "2026-10-27T20:48:45.566673+00:00",
+    "bytes": 2670087,
+    "sha256": "2f8f4aca149ec13a9759aab3e32ae85a53f4de87adcf4a592683a8bd99d4f41f",
+    "inspection": {
+      "row_counts": {
+        "feed_info.txt": 1,
+        "agency.txt": 2,
+        "stops.txt": 1583,
+        "routes.txt": 50,
+        "calendar.txt": 24,
+        "calendar_dates.txt": 79,
+        "shapes.txt": 180230,
+        "trips.txt": 6846,
+        "stop_times.txt": 165089,
+        "transfers.txt": 3122
+      }
+    }
+  },
+  {
+    "namespace": "sncf",
+    "dataset_url": "https://transport.data.gouv.fr/datasets/horaires-sncf",
+    "resource_url": "https://eu.ftp.opendatasoft.com/sncf/plandata/Export_OpenData_SNCF_GTFS_NewTripId.zip",
+    "stable_resource_url": "https://www.data.gouv.fr/api/1/datasets/r/9ae758ec-cd7a-40cd-a890-bb3963224942",
+    "licence": "odc-odbl",
+    "resource_updated": "2026-10-26T20:51:15.000000Z",
+    "catalogue_metadata": {
+      "end_date": "2027-03-31",
+      "feed_contact_emails": {},
+      "feed_end_dates": {
+        "SNCF": "2027-03-31"
+      },
+      "feed_start_dates": {
+        "SNCF": "2026-10-26"
+      },
+      "has_fares": false,
+      "has_pathways": false,
+      "has_shapes": false,
+      "issues_count": {
+        "DuplicateStops": 2656,
+        "ExcessiveSpeed": 9,
+        "IdNotAscii": 49,
+        "Slow": 1
+      },
+      "modes": [
+        "bus",
+        "rail",
+        "tramway"
+      ],
+      "networks": [
+        "CFF",
+        "SNCF VOYAGEURS",
+        "SNCF Voyageurs SA",
+        "SNCF Voyageurs EA",
+        "SNCF Voyageurs LO",
+        "TMR SA",
+        "SNCF Voyageurs BO",
+        "OCEdefault"
+      ],
+      "networks_start_end_dates": {
+        "CFF": {
+          "end_date": "2027-03-31",
+          "start_date": "2026-12-13"
+        },
+        "OCEdefault": {
+          "end_date": "2027-03-31",
+          "start_date": "2026-10-26"
+        },
+        "SNCF VOYAGEURS": {
+          "end_date": "2027-03-31",
+          "start_date": "2026-10-26"
+        },
+        "SNCF Voyageurs BO": {
+          "end_date": "2027-03-31",
+          "start_date": "2026-12-13"
+        },
+        "SNCF Voyageurs EA": {
+          "end_date": "2027-03-31",
+          "start_date": "2026-10-26"
+        },
+        "SNCF Voyageurs LO": {
+          "end_date": "2027-03-31",
+          "start_date": "2026-10-26"
+        },
+        "SNCF Voyageurs SA": {
+          "end_date": "2027-03-31",
+          "start_date": "2026-10-26"
+        },
+        "TMR SA": {
+          "end_date": "2027-03-31",
+          "start_date": "2026-10-26"
+        }
+      },
+      "some_stops_need_phone_agency": false,
+      "some_stops_need_phone_driver": false,
+      "start_date": "2026-10-26",
+      "stats": {
+        "fares_attribute_count": 0,
+        "fares_media_count": 0,
+        "fares_products_count": 0,
+        "fares_rules_count": 0,
+        "routes_count": 754,
+        "routes_with_custom_color_count": 545,
+        "routes_with_long_name_count": 754,
+        "routes_with_short_name_count": 754,
+        "stop_areas_count": 3434,
+        "stop_points_count": 5362,
+        "stops_count": 8796,
+        "stops_with_wheelchair_info_count": 0,
+        "transfers_count": 0,
+        "trips_count": 57268,
+        "trips_with_bike_info_count": 0,
+        "trips_with_shape_count": 0,
+        "trips_with_trip_headsign_count": 57268,
+        "trips_with_wheelchair_info_count": 0
+      },
+      "stops_count": 8796,
+      "validator_version": "0.3.0"
+    },
+    "local_file": "data/raw/sncf.zip",
+    "status": "downloaded",
+    "checked_at": "2026-10-27T20:48:53.377416+00:00",
+    "bytes": 5317442,
+    "sha256": "3d6e68df5d58387027a0e8b81f502319e62ee130cf34ef098e8ef2f42ea19263",
+    "inspection": {
+      "row_counts": {
+        "transfers.txt": 0,
+        "trips.txt": 57268,
+        "stop_times.txt": 498903,
+        "stops.txt": 8796,
+        "calendar_dates.txt": 196374,
+        "feed_info.txt": 1,
+        "agency.txt": 8,
+        "routes.txt": 754
+      }
+    }
+  }
+]

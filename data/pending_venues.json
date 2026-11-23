@@ -1,0 +1,174 @@
+[
+  {
+    "id": "bu-belfort-group-room",
+    "name": "BU Belfort Lucien Febvre — ancien choix générique (choisir BU’lle 0, 1 ou 2)",
+    "status": "pending_site_verification",
+    "missing": [
+      "permission",
+      "room capacity"
+    ],
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-belfort/"
+  },
+  {
+    "id": "utbm-sevenans-savoureuse",
+    "name": "UTBM Sevenans — salle Savoureuse",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours"
+    ],
+    "source_url": "https://bibliotheque.utbm.fr/services/questions_reponses/"
+  },
+  {
+    "id": "utbm-sevenans-chine",
+    "name": "UTBM Sevenans — salle Chine",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours"
+    ],
+    "source_url": "https://bibliotheque.utbm.fr/services/questions_reponses/"
+  },
+  {
+    "id": "numerica-reunion-service",
+    "name": "Numerica — salles de réunion (choix à confirmer)",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours",
+      "room capacity"
+    ],
+    "source_url": "https://numericabfc.com/numerica-immobilier/"
+  },
+  {
+    "id": "cci-montbeliard-charles-weisser",
+    "name": "Place des Entrepreneurs — Charles Weisser",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours"
+    ],
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+  },
+  {
+    "id": "cci-montbeliard-pierre-jouffroy",
+    "name": "Place des Entrepreneurs — Pierre Jouffroy | 207",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours"
+    ],
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+  },
+  {
+    "id": "cci-montbeliard-georges-marconnet",
+    "name": "Place des Entrepreneurs — Georges Marconnet | 303",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours"
+    ],
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+  },
+  {
+    "id": "cci-montbeliard-jules-emile-zingg",
+    "name": "Place des Entrepreneurs — Jules Émile Zingg | 301",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours"
+    ],
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+  },
+  {
+    "id": "cci-montbeliard-paul-elie-dubois",
+    "name": "Place des Entrepreneurs — Paul-Élie Dubois | 302",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours"
+    ],
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+  },
+  {
+    "id": "cci-montbeliard-georges-cuvier",
+    "name": "Place des Entrepreneurs — Georges Cuvier",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours"
+    ],
+    "source_url": "https://www.saone-doubs.cci.fr/place-des-entrepreneurs-montbeliard"
+  },
+  {
+    "id": "bristol-reunion",
+    "name": "Hôtel Bristol — salle de réunion (20 m²)",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours"
+    ],
+    "source_url": "https://www.hotel-bristol-montbeliard.com/seminaires"
+  },
+  {
+    "id": "bristol-seminaire",
+    "name": "Hôtel Bristol — salle de séminaire (100 m²)",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours"
+    ],
+    "source_url": "https://www.hotel-bristol-montbeliard.com/seminaires"
+  },
+  {
+    "id": "mediatheque-montbeliard",
+    "name": "Médiathèque de Montbéliard — espace de travail à confirmer",
+    "status": "pending_site_verification",
+    "missing": [
+      "permission",
+      "room capacity"
+    ],
+    "source_url": "https://mediatheque.montbeliard.com/venir-horaires.aspx"
+  },
+  {
+    "id": "mediatheque-audincourt",
+    "name": "Médiathèque Janusz Korczak — espace de travail",
+    "status": "pending_site_verification",
+    "missing": [
+      "permission",
+      "room capacity"
+    ],
+    "source_url": "https://www.audincourt.fr/culture/mediatheque/"
+  },
+  {
+    "id": "bibliotheque-leon-deubel",
+    "name": "Bibliothèque Léon Deubel — espace de rencontre à confirmer",
+    "status": "pending_site_verification",
+    "missing": [
+      "permission",
+      "bookable hours",
+      "room capacity"
+    ],
+    "source_url": "https://affluences.com/fr/sites/bibliotheque-leon-deubel"
+  },
+  {
+    "id": "azap-jonxion-reunion",
+    "name": "AZAP! La Jonxion — salle de réunion à sélectionner",
+    "status": "pending_site_verification",
+    "missing": [
+      "bookable hours",
+      "room capacity"
+    ],
+    "source_url": "https://myjonxion.tandemparcs.immo/services/centre-affaires/"
+  },
+  {
+    "id": "stgi-c-meeting-room",
+    "name": "UFR STGI bâtiment C — salle de réunion",
+    "status": "pending_site_verification",
+    "missing": [
+      "permission",
+      "bookable hours",
+      "room capacity"
+    ],
+    "source_url": "https://stgi.umlp.fr/partenaires/location-de-salles/"
+  },
+  {
+    "id": "bu-montbeliard-common-area",
+    "name": "Bibliothèque de campus de Montbéliard — espaces communs",
+    "status": "pending_site_verification",
+    "missing": [
+      "permission",
+      "room capacity"
+    ],
+    "source_url": "https://bu.umlp.fr/bibliotheques/bu-montbeliard/"
+  }
+]

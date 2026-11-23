@@ -1,0 +1,48 @@
+{
+  "description": "Hypothetical participants at published station coordinates. Scheduled computation, not field measurement. Walking estimates and room availability unconfirmed.",
+  "meeting": {
+    "id": "data-check",
+    "date": "2026-11-03",
+    "duration_minutes": 30,
+    "objective": "earliest"
+  },
+  "participants": [
+    {
+      "user_id": 1,
+      "name": "Belfort station test",
+      "lat": 47.633278,
+      "lon": 6.854053,
+      "available_from": "08:00",
+      "available_until": "18:00",
+      "modes": [
+        "walk",
+        "transit"
+      ],
+      "max_walk_minutes": 20
+    },
+    {
+      "user_id": 2,
+      "name": "Montbéliard station test",
+      "lat": 47.51055,
+      "lon": 6.801336,
+      "available_from": "08:00",
+      "available_until": "18:00",
+      "modes": [
+        "walk",
+        "transit"
+      ],
+      "max_walk_minutes": 20
+    }
+  ],
+  "previous_snapshot_reference": {
+    "first_venue": "bu-montbeliard-bulle-2a",
+    "meeting_start": "2026-11-03T08:40:24+01:00",
+    "belfort_route": [
+      "train C13 Belfort-Ville → Montbéliard",
+      "walk → Acropole quai 6",
+      "bus T2 → Campus",
+      "walk → venue"
+    ],
+    "status": "Expected from prior snapshot; must rerun the rebuilt planner"
+  }
+}

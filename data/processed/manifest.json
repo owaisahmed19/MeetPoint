@@ -1,0 +1,25 @@
+{
+  "feeds": [
+    {
+      "namespace": "evolity",
+      "file": "evolity.json",
+      "stops": 666,
+      "trips": 2378,
+      "source_file": "evolity.zip"
+    },
+    {
+      "namespace": "optymo",
+      "file": "optymo.json",
+      "stops": 1018,
+      "trips": 6846,
+      "source_file": "optymo.zip"
+    },
+    {
+      "namespace": "sncf",
+      "file": "sncf.json",
+      "stops": 198,
+      "trips": 1550,
+      "source_file": "sncf.zip"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "apk": "MeetPoint-0.4.2.apk",
+  "sha256": "e3660e45faf3a7b6f1a11ed2d438d1b52849020cefc18f22e31c2e0cdb7bf234",
+  "bytes": 16787,
+  "application_id": "fr.meetpoint.app.debug",
+  "version_code": 5,
+  "version_name": "0.4.2",
+  "min_sdk": 26,
+  "target_sdk": 35,
+  "signature_schemes_verified": [
+    "v2",
+    "v3"
+  ],
+  "source_compilation": "passed",
+  "dexing": "passed",
+  "physical_device_tested": false,
+  "signing_certificate_sha256": "ad1e4856ea22f73b1c7a9f6dca9bcf2849d10feab4461ec7c98a840b979b3706",
+  "fix": "Address field uses wrap_content and dp-scaled padding/min-height, avoiding clipped text at high screen density."
+}

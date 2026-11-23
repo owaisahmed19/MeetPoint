@@ -1,0 +1,168 @@
+{
+  "seconds": 19.24,
+  "data_status": {
+    "transit_available": true,
+    "feeds": [
+      {
+        "namespace": "evolity",
+        "stops": 666,
+        "active_trips": 796
+      },
+      {
+        "namespace": "optymo",
+        "stops": 1018,
+        "active_trips": 1387
+      },
+      {
+        "namespace": "sncf",
+        "stops": 198,
+        "active_trips": 290
+      }
+    ],
+    "warnings": [
+      "Walking times and geometry are straight-line approximations, not verified pedestrian routes. Indoor navigation is not implemented.",
+      "Candidate search uses approximate walking links; shortlisted itineraries are refined with a pedestrian router. Global network optimality is not certified.",
+      "Some walking links could not be routed and remain explicitly approximate.",
+      "Pedestrian router unavailable or no trusted foot route: <urlopen error timed out>"
+    ],
+    "pedestrian_routing": {
+      "enabled": true,
+      "requests": 2,
+      "provider": "https://routing.openstreetmap.de/routed-foot/route/v1/driving",
+      "shortlist_only": true,
+      "all_returned_walks_routed": false
+    }
+  },
+  "proposals": [
+    {
+      "venue": "bu-montbeliard-bulle-2a",
+      "start": "2026-11-03T08:41:02+01:00",
+      "complete_walks": true,
+      "itineraries": [
+        {
+          "user": "Belfort station test",
+          "legs": [
+            {
+              "mode": "walk",
+              "line": null,
+              "geometry_kind": "approximate_straight_line",
+              "vertices": 2,
+              "from": "Belfort station test",
+              "to": "Belfort-Ville"
+            },
+            {
+              "mode": "train",
+              "line": "C13",
+              "geometry_kind": "sncf_rail_corridor",
+              "vertices": 100,
+              "from": "Belfort-Ville",
+              "to": "Montbéliard"
+            },
+            {
+              "mode": "walk",
+              "line": null,
+              "geometry_kind": "osm_foot_route",
+              "vertices": 13,
+              "from": "Montbéliard",
+              "to": "ACROPOLE QUAI 6"
+            },
+            {
+              "mode": "bus",
+              "line": "T2",
+              "geometry_kind": "gtfs_shape",
+              "vertices": 145,
+              "from": "ACROPOLE QUAI 6",
+              "to": "CAMPUS"
+            },
+            {
+              "mode": "walk",
+              "line": null,
+              "geometry_kind": "osm_foot_route",
+              "vertices": 9,
+              "from": "CAMPUS",
+              "to": "BU Montbéliard — espace BU’lle 2A"
+            }
+          ]
+        },
+        {
+          "user": "Montbéliard station test",
+          "legs": [
+            {
+              "mode": "walk",
+              "line": null,
+              "geometry_kind": "osm_foot_route",
+              "vertices": 13,
+              "from": "Montbéliard station test",
+              "to": "ACROPOLE QUAI 6"
+            },
+            {
+              "mode": "bus",
+              "line": "T2",
+              "geometry_kind": "gtfs_shape",
+              "vertices": 145,
+              "from": "ACROPOLE QUAI 6",
+              "to": "CAMPUS"
+            },
+            {
+              "mode": "walk",
+              "line": null,
+              "geometry_kind": "osm_foot_route",
+              "vertices": 9,
+              "from": "CAMPUS",
+              "to": "BU Montbéliard — espace BU’lle 2A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "venue": "bu-belfort-group-room",
+      "start": "2026-11-03T09:00:00+01:00",
+      "complete_walks": false,
+      "itineraries": [
+        {
+          "user": "Belfort station test",
+          "legs": [
+            {
+              "mode": "walk",
+              "line": null,
+              "geometry_kind": "approximate_straight_line",
+              "vertices": 2,
+              "from": "Belfort station test",
+              "to": "BU Belfort Lucien Febvre — salle à confirmer"
+            }
+          ]
+        },
+        {
+          "user": "Montbéliard station test",
+          "legs": [
+            {
+              "mode": "walk",
+              "line": null,
+              "geometry_kind": "approximate_straight_line",
+              "vertices": 2,
+              "from": "Montbéliard station test",
+              "to": "Montbéliard"
+            },
+            {
+              "mode": "train",
+              "line": "K13",
+              "geometry_kind": "sncf_rail_corridor",
+              "vertices": 100,
+              "from": "Montbéliard",
+              "to": "Belfort-Ville"
+            },
+            {
+              "mode": "walk",
+              "line": null,
+              "geometry_kind": "approximate_straight_line",
+              "vertices": 2,
+              "from": "Belfort-Ville",
+              "to": "BU Belfort Lucien Febvre — salle à confirmer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
