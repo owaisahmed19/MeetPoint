@@ -122,4 +122,7 @@ Tests use temporary databases and should not modify the local application databa
 
 ## Author
 
-MeetPoint was developed for the Mobility in Smart Cities course.
+MeetPoint was developed by two people for the Mobility in Smart Cities course:
+
+- **Owais Ahmed Khan**
+- **Ahmed Al-Muharaq**
